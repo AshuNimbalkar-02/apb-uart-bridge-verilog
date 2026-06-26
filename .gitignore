@@ -1,0 +1,14 @@
+# Compilation & build objects
+obj_dir/
+Vapb_uart_tb
+*.vvp
+*.vvp.out
+
+# Waveform databases and logs
+*.vcd
+*.log
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
